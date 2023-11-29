@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 Nov 2023 14:36:37 at https://seantheme.com/color-admin/admin/facebook/index_v2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://seantheme.com/color-admin/admin/facebook/index_v2.html -O1 "D:\Hospital Template\Hospital" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:38:38	Warning: 	Retry after error -4 (Connect Error) at link https://seantheme.com/color-admin/admin/facebook/login.html (from https://seantheme.com/color-admin/admin/facebook/index_v2.html)
+14:39:48	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/0.323 (from https://seantheme.com/color-admin/admin/facebook/index_v3.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-13.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-1.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-2.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-3.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-4.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-5.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-6.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-7.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-8.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-9.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-10.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-11.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+14:39:53	Error: 	"Not Found" (404) at link https://seantheme.com/color-admin/admin/facebook/assets/img/user/user-12.jpg (from https://seantheme.com/color-admin/admin/facebook/extra_messenger_page.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 16 seconds : 570 links scanned, 554 files written (36599707 bytes overall) [24215711 bytes received at 123549 bytes/sec], 16479804 bytes transferred using HTTP compression in 335 files, ratio 22%, 20.3 requests per connection
+(14 errors, 1 warnings, 0 messages)
