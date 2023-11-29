@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/Dapper.2.0.123/lib
+/packages/Dapper.2.0.123
+/issHospital/bin
+/issHospital/obj
+/issHospital/v15
